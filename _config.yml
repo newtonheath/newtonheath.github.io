@@ -2,7 +2,7 @@ name: newtonheath
 title: newtonheath
 email: michael@virtualworthington.com
 description: >- # this means to ignore newlines until "baseurl:"
-A catchall for recipes, things to remember, things to review
+  A catchall for recipes, things to remember, things to review
 baseurl: /
 url: https://newtonheath.github.io
 twitter_username: newtonheath
