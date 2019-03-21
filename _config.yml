@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: newtonheath
 title: newtonheath
 email: michael@virtualworthington.com
@@ -26,3 +27,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+=======
+theme: jekyll-theme-slate
+>>>>>>> 3a7324a88942421e681508df99cb348985e10728
