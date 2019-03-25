@@ -34,15 +34,14 @@ categories: [Recipe, Entree]
 ### Chicken
 
 1. Slice or pound chicken breasts to 1/4 inch thickness
-1. Dredge cutlets in seasoned flour with Parmesan: Mix together the flour, salt, pepper, and grated Parmesan. Rinse the chicken pieces in water. Dredge them thoroughly in the flour mixture, until well coated.
-1. Brown cutlets in butter and oil: Heat olive oil and 2 tablespoons of the butter in a large skillet on medium high heat.
-1. Add half of the chicken pieces, do not crowd the pan. Brown well on each side, about 3 minutes per side. Remove the chicken from the pan and reserve to a plate.
-1. Repeat for remaining chicken
+1. Mix together the flour, salt, pepper, and grated Parmesan. Rinse the chicken pieces in water. Cover them thoroughly in the flour mixture, until well coated.
+1. Heat olive oil and 2 tablespoons of the butter in a large skillet on medium high heat.
+1. Add half of the chicken pieces, do not crowd the pan. Brown well on each side, about 3 minutes per side. Remove the chicken from the pan and reserve to a plate. Repeat for remaining chicken.
 
 ### Chicken
 
-1. Add stock or wine, lemon juice, capers, reduce by half, stir in butter: Add the chicken stock or white wine, lemon juice, and capers to the pan. Use a spatula to scrape up the browned bits. Reduce the sauce by half.
-1. Whisk in the remaining 2 tablespoons of butter.
+1. Add the chicken stock or white wine, lemon juice, and capers to the pan. Use a spatula to scrape up the browned bits. Reduce the sauce by half.
+1. Stir in the remaining 2 tablespoons of butter.
 
 ### Serve
 
