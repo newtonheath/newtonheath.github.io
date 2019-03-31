@@ -45,6 +45,6 @@ categories: [Recipe]
 
 ### Cook
 
-1. Sieve sauce and add to rice
+1. Add sauce to rice
 1. Stir lightly with a wooden spoon until lightly boiling
 1. Cover with lid, and cook for 17 minutes on lowest heat setting
