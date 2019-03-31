@@ -39,7 +39,7 @@ categories: [Recipe]
 
 ### Prep rice
 
-1. Rinse the rice and drain in a sieve
+1. Rinse the rice and drain
 1. Add the oil to the skillet and heat oil
 1. Add rice and toast until most of the oil is absorbed, and smells nutty
 
