@@ -31,9 +31,20 @@ categories: [Recipe]
 
 ### Filling
 
-1. Add chicken stock, chicken, salt, and pepper to a flame resistant casserole dish
+1. Add chicken stock, chicken, salt, and pepper to a flame resistant casserole dish. Bring to the boil and simmer for 15 minutes.
+1. Remove the chicken from the broth, and shred.
+1. In a saucepan, melt two tablepsoons of butter. Add the carrots, onion, and celery, and cook for eight minutes, stirring often.
+1. Remove the vegatables from the pan.
+1. Add remaining three tablespoons of butter, and when melted, add the flour, and whisk for 2 minutes.
+1. Add chicken stock slowly, and whisk. When heated, let bubble gently for two minutes. 
+1. Move the sauce to the casserole, adding chicken, and vegatables, and add peas, letting simmer for two minutes, and then leave on the side.
+
 ### Topping
 
-1. Do this
-1. Do that
-1. Do other
+1. Set oven to 400F.
+1. In a bowl, add flour, baking powder, and salt. Stir well, and add four tablespoons of the butter. Combine, and mix until coarse crumbs form.
+1. Stir in the milk, and mix with a spatula until a dough forms.
+1. Drop the dough in spoonfuls on the mixture in the casserole, gently spreading the dough to cover the casserole.
+1. Dot the top with the remaining butter
+1. Bake for thirty minutes.
+
