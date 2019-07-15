@@ -10,7 +10,7 @@ categories: [Info]
  | Vario Ceramic | Vario Steel
 ---  | --- | ---
 Espresso | 2Q | *
-Siphon | 5N	3N
+Siphon | 5N | 3N
 AeroPress | 6M | 4M
 Hario | 6M | 4F
 Basket Brewers | 6M | 4Z
