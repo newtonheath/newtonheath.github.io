@@ -7,7 +7,7 @@ categories: [Info]
 
 ## Vario Settings
 
- | Vario Ceramic | Vario Steel
+Setting| Vario Ceramic | Vario Steel
 ---  | --- | ---
 Espresso | 2Q | *
 Siphon | 5N | 3N
