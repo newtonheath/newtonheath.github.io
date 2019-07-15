@@ -10,7 +10,7 @@ categories: [Recipe]
 ### Filling
 
 * 3 1/2 cups chicken stock
-* 4 chicken breasts, cubed
+* 4 chicken breasts, cut into strips (alternatively, 8 chicken thighs, bones and skin removed after boil)
 * Salt and pepper to taste
 * 5 tablespoons of butter
 * 2 carrots, peeled and thinly sliced
@@ -45,6 +45,6 @@ categories: [Recipe]
 1. In a bowl, add flour, baking powder, and salt. Stir well, and add four tablespoons of the butter. Combine, and mix until coarse crumbs form.
 1. Stir in the milk, and mix with a spatula until a dough forms.
 1. Drop the dough in spoonfuls on the mixture in the casserole, gently spreading the dough to cover the casserole.
-1. Dot the top with the remaining butter
+1. Dot the top of the dough with the remaining butter.
 1. Bake for thirty minutes.
 
