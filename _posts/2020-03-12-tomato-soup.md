@@ -26,7 +26,7 @@ categories: [Recipe]
 
 ## Steps
 
-1. Place soup ingredients in a pan, bring to a simmer, and cook for 10 minutes with the lid on
+1. Place soup ingredients in a pan, simmer with the lid on, and cook for 10 minutes
 1. Blend all ingredients
 1. In a pan, melt butter on low heat
 1. Add flour and cook for a minute
