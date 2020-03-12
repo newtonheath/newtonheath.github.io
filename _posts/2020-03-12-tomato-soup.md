@@ -20,9 +20,9 @@ categories: [Recipe]
 
 ### Roux sauce
 
-1 1/2 teaspoons flour
-1 1/2 teaspoons butter
-1 1/2 cups warm milk
+* 1 1/2 teaspoons flour
+* 1 1/2 teaspoons butter
+* 1 1/2 cups warm milk
 
 ## Steps
 
