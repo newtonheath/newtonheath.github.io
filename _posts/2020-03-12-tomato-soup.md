@@ -7,13 +7,6 @@ categories: [Recipe]
 
 ## Ingredients
 
-### Item 1
-
-* Ingredient 1
-* Ingredient 2
-* Ingredient 3
-
-
 ### Soup base
 
 * 3 cups tomatoes, chopped
