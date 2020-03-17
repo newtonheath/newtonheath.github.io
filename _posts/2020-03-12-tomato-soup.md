@@ -27,8 +27,8 @@ categories: [Recipe]
 ## Steps
 
 1. Place soup ingredients in a pan, simmer with the lid on, and cook for 10 minutes
-1. Transfer the sacue into a blender, and blend all ingredients (can seive, but have not tried)
+1. Transfer the sacue into a blender, and blend all ingredients (can sieve, but not tried yet)
 1. In a pan, melt butter on low heat
-1. Add flour and cook for a few minutes, longer to make the color darker - if roux caramelizes (smell), begin again
+1. Add flour and cook on a low heat for a few minutes, longer to make the color darker
 1. Add milk slowly, ensuring each addition is mixed in until smooth - will clump at first
 1. Add roux to base and warm through slowly, without bringing to a boil
