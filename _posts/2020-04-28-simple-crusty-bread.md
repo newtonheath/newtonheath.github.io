@@ -2,7 +2,7 @@
 layout: post
 title: Simple Crusty Bread
 date: 2020-04-28
-categories: [Recipe]
+categories: [Recipe, NYT]
 ---
 
 ## Ingredients
