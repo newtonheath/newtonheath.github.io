@@ -18,6 +18,6 @@ categories: [Recipe]
 
 ## Steps
 
-1. Comine ingredient one by one, and whisk each addition
-1. Pour into 8 inch pan
-1. Bake for 30 minutes at 350F
+1. Comine ingredients, one by one, and whisk each addition
+1. Pour into a greased 8 or 9 inch pan
+1. Bake for 30 (22-40) minutes at 350F
