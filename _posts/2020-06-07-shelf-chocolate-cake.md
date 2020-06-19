@@ -5,6 +5,8 @@ date: 2020-06-07
 categories: [Recipe]
 ---
 
+A chocolate cake you can make with ingredients from a shelf...
+
 ## Ingredients
 
 * 1/4 cup cocoa powder
