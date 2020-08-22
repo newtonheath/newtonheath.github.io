@@ -7,7 +7,7 @@ categories: [Recipe]
 
 ## Ingredients
 
-* 24 oz of Italian red sauce
+* 3 cups (24 fl oz) of Italian red sauce
 * 1 tablespoon balsamic vinegar
 * 1/2 cup panko breadcrumbs
 * 1/2 cup grated parmesan
@@ -16,13 +16,10 @@ categories: [Recipe]
 * Freshly ground black pepper to taste
 * 2 large egg white, lightly beaten
 * 1 1/2 pound chicken breast cut into tenders
-* 12 ounces pasta
 * 1 tablespoon olive oil
 * 1/2 cup shredded mozzarella
 
 ## Steps
-
-1. Pre-heat broiler (overhead grill) to medium, and begin to heat a large pot of water
 
 1. Combine sauce, vinegar in a small saucepan and bring to a boil over high heat
 1. Reduce and simmer for 5 minutes
@@ -32,3 +29,5 @@ categories: [Recipe]
 1. Place chicken in heatproof dish and pour sauce over
 1. Scatter remaining cheeses over sauce and chicken
 1. Broil chicken, sauce, and cheese until the cheese bubbles, about 2 minutes
+
+Serve with 12 ounces cooked pasta
