@@ -13,7 +13,6 @@ categories: [Recipe, NYT]
 * 1 1/2 tablespoons (4 1/2 teaspooons) yeast
 * 1 1/2 tablespoons salt
 * 6 1/2 cups unbleached flour
-* 3 cups warm (100F) water
 
 ## Steps
 
