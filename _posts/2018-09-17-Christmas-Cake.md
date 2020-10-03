@@ -32,7 +32,7 @@ categories: [Recipe]
 
 ## Steps
 
-1. Stir well the fruit and nut mixture, and cover and leave overnight
+1. Stir the fruit and nut mixture well, cover, and leave overnight
 1. Sift flour and mixed spice into a bowl
     1. Add ground almonds
 1. Mix sugar and softened butter
