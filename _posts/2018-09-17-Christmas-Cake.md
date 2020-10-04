@@ -22,11 +22,11 @@ categories: [Recipe]
 
 ### Cake mix
 
-- 9 oz Plain flour
+- 2 cups Plain flour
+- 1/2 cup Ground almonds
 - 1 1/2 teaspoons Mixed spice
-- 2 oz | 50 grams | Ground almonds
-- 8 oz | 225 grams | Soft brown sugar
-- 8 oz | 225 grams | Softened butter
+- 2 cups Soft brown sugar
+- 2 sticks Softened butter
 - 2 tablespoons Treacle/Molasses
 - 5 Eggs
 
