@@ -23,29 +23,23 @@ categories: [Recipe]
 ### Cake mix
 
 - 2 cups Plain flour
-- 1/2 cup Ground almonds
+- 1/2 cup Almond flour
 - 1 1/2 teaspoons Mixed spice
 - 2 cups Soft brown sugar
 - 2 sticks Softened butter
-- 2 tablespoons Treacle/Molasses
+- 2 tablespoons Molasses
 - 5 Eggs
 
 ## Steps
 
 1. Stir the fruit and nut mixture well, cover, and leave overnight
-1. Sift flour and mixed spice into a bowl
-    1. Add ground almonds
 1. Mix sugar and softened butter
-    1. Add treacle and mix
-    1. Add eggs and mix
-    1. Add flour mixture, and mix
-    1. Add fruit and nut mixture, and mix
-1. Line 9 inch tin with parchment paper
-    1. Tie a double strip
-1. Bake
-    1. Place tin in center of cool oven
-    1. Bake at 140C / 275 F for 2 1/2 hours
-1. Test
-    1. Should have risen
-    1. Shrunk from sides
-    1. When pressed in the center, should spring back
+1. Add treacle, mix
+1. Add eggs, mix
+1. Add mixed spice, mix
+1. Add flour, mix
+1. Add almond flour, mix
+1. Add fruit and nut mixture, and stir well
+1. Line a deep 9 inch tin with parchment paper
+1. Place tin in center of cool oven and bake at 275 F for 2 1/2 hours
+1. When cooked, the cake should have risen, shrunk from sides, and when pressed in the center, should spring back
