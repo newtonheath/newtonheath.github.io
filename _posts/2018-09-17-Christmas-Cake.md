@@ -41,5 +41,5 @@ categories: [Recipe]
 1. Add almond flour, mix
 1. Add fruit and nut mixture, and stir well
 1. Line a deep 9 inch tin with parchment paper
-1. Place tin in center of cool oven and bake at 275 F for 2 1/2 hours
+1. Place tin in center of cool oven and bake at 275 F for 2 hours 45 minutes
 1. When cooked, the cake should have risen, shrunk from sides, and when pressed in the center, should spring back
