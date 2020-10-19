@@ -9,7 +9,7 @@ categories: [Recipe]
 
 ### Fruit and nut
 
-- 1 cup Cranberries
+- 1 cup Sweetened dried cranberries
 - 2 cup Currants
 - 1 1/2 cup Sultanas
 - 1 cup Raisins
