@@ -7,7 +7,7 @@ categories: [Recipe]
 
 ## Ingredients
 
-* 6 slices bacon, vut into 1 inch pieces
+* 6 slices bacon, cut into 1 inch pieces
 * 6 ounces dried fettuccine or linguine
 * 1 egg, beaten
 * 1 cup light cream
