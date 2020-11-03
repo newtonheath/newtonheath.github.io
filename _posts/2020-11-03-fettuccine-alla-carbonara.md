@@ -19,7 +19,7 @@ categories: [Recipe]
 ## Steps
 
 - Cook bacon until crisp
-- Cook pasta per directions and drain well
+- Cook pasta per directions
 - Cook peas in sieve on top of pasta for a few minutes
 - Combine butter, cream, and egg in a small sauce pan and slowly and gently heat, beating regularly with a whisk
 - Drain pasta and return to the pan, and combine all ingredients
