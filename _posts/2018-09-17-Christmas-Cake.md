@@ -36,7 +36,7 @@ categories: [Recipe]
 
 ### Royal icing
 
-- 1lb Confectioners sugar
+- 1 pound Confectioners sugar
 - 1/3 cup Pasturized egg whites
 - 1 teaspoon Vanilla essence
 
