@@ -7,16 +7,12 @@ categories: [Recipe]
 
 ## Ingredients
 
-### Item 1
-
 * 1 1/2 cups unsalted butter, chilled
 * 3 cups flour
 * 3/4 cup sugar
 * 1 1/4 teaspoon salt
 
 ## Steps
-
-### Item 1
 
 1. Heat oven to 350F
 1. Cut butter into 1/2 inch cubes - with sticks, cut lengthwise down the center, turn on side and repeat - then cube
