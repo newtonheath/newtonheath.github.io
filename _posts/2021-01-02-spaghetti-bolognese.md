@@ -16,7 +16,7 @@ categories: [Recipe, Italian]
 * 2 Garlic cloves, finely chopped
 * 2 Rosemary sprigs, finley chopped
     * Alternatively, 1/4 teaspoon crushed rosemary
-* 1 28oz (400g) tin Peeled plum tomatoes
+* 1 28oz (794g) tin Peeled plum tomatoes
 * 1 tablespoon Basil, chopped
     * Alternatively, 1/4 teaspoon dried basil
 * 2 teaspoons Oregano, chopped
