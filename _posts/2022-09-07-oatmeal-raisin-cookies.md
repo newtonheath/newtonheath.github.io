@@ -10,13 +10,14 @@ categories: [Recipe, Cookie]
 * 1 1/4 Cup(s) (2-1/2 sticks) margarine or butter, softened
 * 3/4 Cup(s) firmly packed brown sugar
 * 1/2 Cup(s) granulated sugar
-* 1 Egg(s)
+* 2 Egg(s)
 * 1 Teaspoon(s) vanilla
 * 1 1/2 Cup(s) all-purpose flour
 * 1 Teaspoon(s) Baking Soda
 * 1 Teaspoon(s) ground cinnamon
 * 1/2 Teaspoon(s) salt (optional)
 * 1/4 Teaspoon(s) ground nutmeg
+* 1 Cup(s) raisins
 * 3 Cup(s) oats
 
 ## Steps
