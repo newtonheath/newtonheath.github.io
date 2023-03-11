@@ -26,7 +26,7 @@ categories: [Recipe, Cookie]
 2. In large bowl, beat margarine and sugars until creamy.
 3. Add egg and vanilla; beat well.
 4. Add combined flour, baking soda, cinnamon, salt and nutmeg; mix well.
-5. Add oats; mix well.
+5. Add raisins and oats; mix well.
 6. Drop dough by rounded tablespoonfuls onto ungreased cookie sheets.
 7. Bake 8 to 9 minutes for a chewy cookie or 10 to 11 minutes for a crisp cookie.
 8. Cool 1 minute on cookie sheets; remove to wire rack. Cool completely.
