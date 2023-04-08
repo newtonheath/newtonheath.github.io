@@ -17,7 +17,7 @@ categories: [Recipe]
 
 ## Steps
 
-*	Combine all ingredients with you hands
+*	Combine all ingredients with you hands in a container that has a lid that seals
 *	When dough comes together, cover and let dough rest for 20 minutes
 
 ## 1st fold
