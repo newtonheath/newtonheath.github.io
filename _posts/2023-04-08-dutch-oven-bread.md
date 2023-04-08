@@ -18,7 +18,8 @@ Video this came from can be found [here](https://www.youtube.com/watch?v=s8Rf2LB
 
 ## Steps
 
-*	Combine all ingredients with you hands in a large container that has a lid that seals
+*	Place all ingredients in a large container that has a lid that seals
+*	With the handle of a wooden spoon (or with you hands), combine all the ingredients
 *	When dough comes together, cover and let dough rest for 20 minutes
 
 ## 1st fold
