@@ -18,30 +18,29 @@ categories: [Recipe]
 ## Steps
 
 *	Combine all ingredients with you hands
-*	When dough comes together, let rest
+*	When dough comes together, cover and let dough rest for 20 minutes
 
-## +20 min	1st fold
+## 1st fold
 *	Keep hands wet
 *	Pull dough from side of container, stretching the side over the top of the bread
 *	Continue all around, around 6 times
 *	Dough looks grainy
-*	Cover and rest
+*	Cover and let dough rest for 20 minutes
 
-## +20 min	2nd fold
+## 2nd fold
 *	Pull one side, stretching the dough apart with both hands, trapping air as you fold the sideside over to other side
 *	Repeat 4 times for each side
-*	Cover and rest
+*	Cover and let dough rest for 20 minutes
 
-## +20 min	3rd fold
+## 3rd fold
 *	Stretch and fold in the same manner
 *	Dough is smoother
-*	Cover and rest
-*	9:30PM
+*	Cover and let dough rest for 20 minutes
 
-## +20 min	4th fold
+## 4th fold
 *	Stretch and fold in the same manner
 *	Dough should be very smooth
-*	Cover, and rest for around 12 hours at room temperature
+*	Cover, and rest for approximately 12 hours at room temperature (
 
 ## Bake
 * Spinkle flour around the edge of container to help release dough
