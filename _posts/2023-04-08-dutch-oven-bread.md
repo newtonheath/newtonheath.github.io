@@ -5,6 +5,7 @@ date: 2023-04-08
 categories: [Recipe]
 ---
 
+Video this came from can be found [here](https://www.youtube.com/watch?v=s8Rf2LBgmsc&list=WL)
 ## Ingredients
 
 ### Item
@@ -17,7 +18,7 @@ categories: [Recipe]
 
 ## Steps
 
-*	Combine all ingredients with you hands in a container that has a lid that seals
+*	Combine all ingredients with you hands in a large container that has a lid that seals
 *	When dough comes together, cover and let dough rest for 20 minutes
 
 ## 1st fold
