@@ -7,7 +7,7 @@ categories: [Recipe]
 
 ## Ingredients
 
-* 2 teaspoons unsalteed butter
+* 2 tablespoons unsalteed butter
 * 2 tablespoons flour
 * 1 1/2 cup whole milk
 * Salt to taste
