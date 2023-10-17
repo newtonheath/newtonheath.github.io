@@ -9,10 +9,10 @@ categories: [Recipe, NYTimes]
 
 * 2 chicken breast fillets (2.25 lb)
 * 1/4 teaspoon salt
-* 1/8 teaspoon feshly groupnd black pepper
+* 1/8 teaspoon feshly ground black pepper
 * 1/4 cup flour
 * 3 tablespoons extra virgin olive oil
-* 3 tablespoons unsalted butter (adjust salt above if salted)
+* 3 tablespoons unsalted butter (adjust salt above if butter salted)
 * 3 finely chopped garlic cloves
 * 1 tablespoon tomato paste
 * 1/2 teaspoon dried oregano
