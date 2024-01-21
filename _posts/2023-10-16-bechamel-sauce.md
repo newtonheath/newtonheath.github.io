@@ -19,6 +19,6 @@ categories: [Recipe]
 1. Melt butter medium/low
 1. Add flour and whisk continuously for 1 minute
 1. Add milk in small quantities, whisking constantly until each addition is smooth
-2. Continue to which frequently for up to 8 minutes
-3. Add salt, pepper, nutmeg for taste
-4. If keeping for up to three days, immediatey place wrap on surfce of sauce in the container it will be refrigerated in to stop skin forming
+1. Continue to which frequently for up to 8 minutes
+1. Add salt, pepper, nutmeg for taste
+1. If keeping for up to three days, immediatey place wrap on surfce of sauce in the container it will be refrigerated in to stop skin forming
