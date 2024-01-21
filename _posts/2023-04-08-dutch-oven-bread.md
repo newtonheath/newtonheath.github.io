@@ -8,7 +8,7 @@ categories: [Recipe]
 Video this came from can be found [here](https://www.youtube.com/watch?v=s8Rf2LBgmsc&list=WL)
 ## Ingredients
 
-| ingredient | one loaf | two Loaves |
+| ingredient | one loaf | two loaves |
 | --- | --- | --- |
 | Bread Flour | 500 grams | 1 Kg |
 | Tap water | 265 ml | 530 ml |
