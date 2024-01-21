@@ -8,13 +8,14 @@ categories: [Recipe]
 Video this came from can be found [here](https://www.youtube.com/watch?v=s8Rf2LBgmsc&list=WL)
 ## Ingredients
 
-### Item
+| ingredient | one loaf | two Loaves |
+| --- | --- | --- |
+| Bread Flour | 500 grams | 1 Kg |
+| Tap water | 265 ml | 530 ml |
+| Hot water | 125 ml | 250 ml |
+| Salt | 1 1/4 teaspoon | 2 1/2 teaspoon |
+| Yeast | 1/4 teaspoon | 1/2 teaspoon |
 
-* 1 kg bread flour
-*	530 ml water
-*	250 ml hot water
-*	2.5 tsp salt
-*	1/4 tsp yeast
 
 ## Steps
 
