@@ -14,11 +14,13 @@ categories: [Recipe]
 * 2 teaspoons sugar
 * 2 teaspoons salt
 * 1 1/2 teaspoon fresh basil
-* A pinch of thyme
-* A pinch of black pepper
+* 1/8 teaspoon thyme
+* 1/4 teaspoon paprika
+* 1/4 teaspoon chilli powder
+* 1/4 teaspoon freshly ground pepper
 * 12oz can tomato paste
 
-### Roux sauce
+### Roux
 
 * 2 teaspoons flour
 * 2 teaspoons butter
