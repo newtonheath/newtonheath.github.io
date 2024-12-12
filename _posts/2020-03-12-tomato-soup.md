@@ -9,7 +9,7 @@ categories: [Recipe]
 
 ### Soup base
 
-* 4 cups tomatoes, chopped
+* 4 cups tomatoes, chopped (1 kg)
 * 1/2 an onion, diced
 * 2 teaspoons sugar
 * 2 teaspoons salt
