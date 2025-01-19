@@ -1,22 +1,25 @@
 ---
 layout: post
 title: Spaghetti Bolognese
-date: 2021-01-02
+date: 2025-01-19
 categories: [Recipe, Italian]
 ---
 
-## Ingredients
+# Ingredients
+
+## Initial prep
 
 * 2 tablespoons Olive oil
-* 1/2 pound Ground beef
-* 1/2 pound Ground pork
+* 1 pound ground beef, or beeef and port, or vegetarian substitute
 * 1 Onion, finely chopped
 * 2 Carrots, grated
 * 2 Celery sticks, thinly sliced
 * 2 Garlic cloves, finely chopped
 * 2 Rosemary sprigs, finley chopped
     * Alternatively, 1/4 teaspoon crushed rosemary
-* 1 28oz (794g) tin Peeled plum tomatoes
+
+## Secondary prep
+
 * 1 tablespoon Basil, chopped
     * Alternatively, 1/4 teaspoon dried basil
 * 2 teaspoons Oregano, chopped
@@ -26,6 +29,7 @@ categories: [Recipe, Italian]
 * 2 Beef bouillon cubes
 * 1/2 cup Red wine
 * 6 Cherry tomoatoes, halved
+* 1 28oz (794g) tin Peeled plum tomatoes
 
 ## Steps
 
