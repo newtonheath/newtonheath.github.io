@@ -22,7 +22,7 @@ These recipes for [custard](https://newtonheath.github.io/recipe/2025/01/27/cust
 1. Layer raspberries over pound cake, leaving some aside for decoration
 1. Drizzle whisky over raspberris and cake
 1. Pour custard over while hot, and chill
-1. Layer whipped creme onto chilled trifle
+1. Layer whipped creme onto chilled base
 1. Decorate with remaining raspberries and almonds
 
 ## Tips
