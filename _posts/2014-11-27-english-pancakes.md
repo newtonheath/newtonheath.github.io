@@ -2,7 +2,7 @@
 layout: post
 title: English Pancakes
 date: 2014-11-27
-categories: [recipes, mrs-beeton]
+categories: [recipes, mrs-beeton, favorites]
 ---
 
 ## Ingredients
