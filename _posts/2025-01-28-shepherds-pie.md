@@ -2,7 +2,7 @@
 layout: post
 title: Shepherds Pie
 date: 2025-01-28
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

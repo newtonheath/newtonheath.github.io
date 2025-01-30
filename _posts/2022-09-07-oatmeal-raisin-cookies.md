@@ -2,7 +2,7 @@
 layout: post
 title: Oatmeal Raisin Cookies
 date: 2022-09-07
-categories: [recipes,sweets]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients
