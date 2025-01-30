@@ -2,7 +2,7 @@
 layout: post
 title: Italian Meatballs
 date: 2018-02-25
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

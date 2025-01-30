@@ -2,7 +2,7 @@
 layout: post
 title: Banana Bread
 date: 2016-01-17
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

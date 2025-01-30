@@ -2,7 +2,7 @@
 layout: post
 title: Khatti Dal
 date: 2016-04-03
-categories: [Recipe,Indian]
+categories: [recipes,indian]
 ---
 
 ## Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title: Hot Water Crust Pastry
 date: 2014-11-27
-categories: [Recipe, Mrs Beeton]
+categories: [recipes, mrs-beeton]
 ---
 
 *This pastry is used for pork, veal and ham, and raised game pies. It must be moulded while still warm.*

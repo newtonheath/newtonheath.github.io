@@ -2,7 +2,7 @@
 layout: post
 title: Yorkshire Pudding
 date: 2024-12-11
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

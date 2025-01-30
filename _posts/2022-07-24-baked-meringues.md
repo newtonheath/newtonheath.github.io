@@ -2,7 +2,7 @@
 layout: post
 title: Baked Meringues
 date: 2022-07-24
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients

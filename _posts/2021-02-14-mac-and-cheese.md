@@ -2,7 +2,7 @@
 layout: post
 title: Mac and Cheese
 date: 2021-02-14
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

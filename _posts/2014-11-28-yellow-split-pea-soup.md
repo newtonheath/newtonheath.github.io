@@ -2,7 +2,7 @@
 layout: post
 title: Yellow Split Pea Soup
 date: 2014-11-28
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

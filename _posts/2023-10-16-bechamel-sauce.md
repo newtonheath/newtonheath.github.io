@@ -2,7 +2,7 @@
 layout: post
 title: Béchamel Sauce
 date: 2023-10-16
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

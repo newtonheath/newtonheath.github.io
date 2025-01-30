@@ -2,7 +2,7 @@
 layout: post
 title: Chocolate Chip Cookies
 date: 2022-09-07
-categories: [Recipe, Cookie]
+categories: [recipes,sweets]
 ---
 
 ## Ingredients

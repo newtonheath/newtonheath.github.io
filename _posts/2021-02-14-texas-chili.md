@@ -2,7 +2,7 @@
 layout: post
 title: Texas Chilli
 date: 2021-02-14
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title: Shelf Chocolate Cake
 date: 2020-06-07
-categories: [Recipe]
+categories: [recipes]
 ---
 
 A chocolate cake you can make with ingredients from a shelf...

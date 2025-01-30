@@ -2,7 +2,7 @@
 layout: post
 title: Sweet Potato Casserole
 date: 2014-11-25
-categories: [Recipe]
+categories: [recipes,favorites]
 ---
 From Ruth's Chris Steak House
 

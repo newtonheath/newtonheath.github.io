@@ -2,7 +2,7 @@
 layout: post
 title: Crème Anglaise
 date: 2025-01-27
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title: Christmas Cake
 date: 2018-09-17
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients

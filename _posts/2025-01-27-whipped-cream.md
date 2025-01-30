@@ -2,7 +2,7 @@
 layout: post
 title: Whipped Cream
 date: 2025-01-27
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients

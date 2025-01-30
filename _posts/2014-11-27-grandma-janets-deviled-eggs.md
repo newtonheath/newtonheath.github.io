@@ -2,7 +2,7 @@
 layout: post
 title: Grandma Janets Deviled Eggs
 date: 2014-11-27
-categories: [Recipe]
+categories: [recipe]
 ---
 
 ## Ingredients

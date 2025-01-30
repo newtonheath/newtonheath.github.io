@@ -2,7 +2,7 @@
 layout: post
 title: Scottish Tipsy Laird Trifle
 date: 2025-01-27
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 These recipes for [custard](https://newtonheath.github.io/recipe/2025/01/27/custard.html) or [crème anglaise](https://newtonheath.github.io/recipe/2025/01/27/creme-anglaise.html) and [whipped cream](https://newtonheath.github.io/recipe/2025/01/27/whipped-cream.html) produce the amounts required.

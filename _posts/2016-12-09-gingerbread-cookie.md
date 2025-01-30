@@ -2,7 +2,7 @@
 layout: post
 title: Gingerbread cookie
 date: 2016-12-10
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients

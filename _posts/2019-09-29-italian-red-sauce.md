@@ -2,7 +2,7 @@
 layout: post
 title: Italian Red Sauce
 date: 2019-09-29
-categories: [Recipe]
+categories: [recipes,favorites,italian]
 ---
 
 ## Ingredients

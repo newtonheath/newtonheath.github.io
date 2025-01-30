@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Parmesan
 date: 2020-08-22
-categories: [Recipe]
+categories: [recipes,italian]
 ---
 
 ## Ingredients

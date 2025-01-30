@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Stock
 date: 2014-11-28
-categories: [Recipe, Mrs Beeton]
+categories: [recipes, mrs-beeton]
 ---
 
 ## Ingredients

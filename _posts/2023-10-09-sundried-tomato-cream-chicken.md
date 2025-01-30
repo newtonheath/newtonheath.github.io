@@ -2,7 +2,7 @@
 layout: post
 title: Sundried tomato cream chicken
 date: 2023-10-09
-categories: [Recipe, NYTimes]
+categories: [recipes]
 ---
 
 ## Ingredients

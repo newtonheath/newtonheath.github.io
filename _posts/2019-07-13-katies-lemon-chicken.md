@@ -2,7 +2,7 @@
 layout: post
 title: Katie's Lemon Chicken
 date: 2019-07-13
-categories: [Recipe]
+categories: [recipes]
 notes: https://thelemonbowl.com/chicken-broccoli-pasta-with-lemon-butter-sauce/
 ---
 

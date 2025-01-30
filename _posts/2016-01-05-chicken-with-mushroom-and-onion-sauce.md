@@ -2,7 +2,7 @@
 layout: post
 title: Chicken With Mushroom and Onion Sauce
 date: 2016-01-05
-categories: [Recipe]
+categories: [recipes,favorites]
 ---
 
 ## Ingredients

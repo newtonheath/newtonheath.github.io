@@ -2,7 +2,7 @@
 layout: post
 title: Cinnamon Bun Cookies
 date: 2016-12-10
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 Makes about 4 dozen cookies

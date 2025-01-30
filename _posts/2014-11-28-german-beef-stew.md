@@ -2,7 +2,7 @@
 layout: post
 title: German Beef Stew
 date: 2014-11-28
-categories: [Recipe]
+categories: [recipes,favorites]
 ---
 
 ## Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title: Fettuccine Alla Carbonara
 date: 2020-11-03
-categories: [Recipe]
+categories: [recipes,italian]
 ---
 
 ## Ingredients

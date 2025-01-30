@@ -2,7 +2,7 @@
 layout: post
 title: Mary Berry Hot Cross Buns
 date: 2023-04-08
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

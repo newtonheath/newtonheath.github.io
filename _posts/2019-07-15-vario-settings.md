@@ -2,7 +2,7 @@
 layout: post
 title: Vario settings
 date: 2019-07-15
-categories: [Info]
+categories: [settings]
 ---
 
 ## Vario Settings

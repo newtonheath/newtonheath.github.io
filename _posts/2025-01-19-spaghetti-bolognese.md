@@ -2,7 +2,7 @@
 layout: post
 title: Spaghetti Bolognese
 date: 2025-01-19
-categories: [Recipe, Italian]
+categories: [recipes,favorites,italian]
 ---
 
 # Ingredients

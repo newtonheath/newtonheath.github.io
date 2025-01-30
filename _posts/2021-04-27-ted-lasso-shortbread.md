@@ -2,7 +2,7 @@
 layout: post
 title: Ted Lasso Shortbread
 date: 2021-04-27
-categories: [Recipe]
+categories: [recipes,sweet]
 ---
 
 ## Ingredients

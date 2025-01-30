@@ -2,7 +2,7 @@
 layout: post
 title: Waffles A La Iron
 date: 2020-06-07
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

@@ -2,7 +2,7 @@
 layout: post
 title: Dutch Oven Bread
 date: 2023-04-08
-categories: [Recipe]
+categories: [recipes,favorites]
 ---
 
 Video this came from can be found [here](https://www.youtube.com/watch?v=s8Rf2LBgmsc&list=WL)

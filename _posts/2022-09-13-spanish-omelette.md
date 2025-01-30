@@ -2,7 +2,7 @@
 layout: post
 title: Spanish Omelette
 date: 2022-09-13
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients

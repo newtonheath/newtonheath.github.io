@@ -2,7 +2,7 @@
 layout: post
 title: Pulled Pork (or chicken)
 date: 2020-05-04
-categories: [Recipe, NYT]
+categories: [recipes,favorites]
 ---
 
 ## Ingredients

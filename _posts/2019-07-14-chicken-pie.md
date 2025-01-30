@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Pie
 date: 2019-07-14
-categories: [Recipe]
+categories: [recipes,favorites]
 ---
 
 ## Ingredients

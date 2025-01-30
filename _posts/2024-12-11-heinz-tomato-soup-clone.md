@@ -2,7 +2,7 @@
 layout: post
 title: Heinz Tomato Soup Clone
 date: 2024-12-11
-categories: [Recipe]
+categories: [recipes]
 ---
 
 ## Ingredients
