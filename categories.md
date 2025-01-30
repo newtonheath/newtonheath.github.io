@@ -4,11 +4,10 @@ title: Categories
 permalink: /categories/
 ---
 
+<ul>
 {% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+  {% capture category_name %}{{ category[0] }}{% endcapture %}
+  {% assign category_page = site.pages | where: "category", category_name | first %}
+  <li><a href="/category/{{ category_name | downcase }}">{{ category_page.title | default: category_name }}</a> ({{ category[1].size }})</li>
 {% endfor %}
+</ul>
