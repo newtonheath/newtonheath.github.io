@@ -2,7 +2,7 @@
 layout: post
 title: Chicken Piccata
 date: 2019-03-24
-categories: [recipes]
+categories: [recipes, italian]
 ---
 
 20 minute recipe.
