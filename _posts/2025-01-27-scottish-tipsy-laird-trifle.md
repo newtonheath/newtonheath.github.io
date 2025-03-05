@@ -13,7 +13,7 @@ These recipes for [custard](https://newtonheath.github.io/recipes/sweet/custard/
 * 1lb fresh raspberries
 * 3 cups custard
 * 2 cups whipped cream
-* 2 tablespoons toasted flaked/sliced almonds
+* 2 tablespoons toasted flaked/sliced almonds or alternatively grated chocolate
 * 6 tablespoons whisky
 
 ## Steps
