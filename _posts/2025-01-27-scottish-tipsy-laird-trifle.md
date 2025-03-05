@@ -5,7 +5,7 @@ date: 2025-01-27
 categories: [recipes,sweet]
 ---
 
-These recipes for [custard](https://newtonheath.github.io/recipe/2025/01/27/custard.html) or [crème anglaise](https://newtonheath.github.io/recipe/2025/01/27/creme-anglaise.html) and [whipped cream](https://newtonheath.github.io/recipe/2025/01/27/whipped-cream.html) produce the amounts required.
+These recipes for [custard](https://newtonheath.github.io/recipes/sweet/custard/) or [crème anglaise](https://newtonheath.github.io/recipes/sweet/creme-anglaise/) and [whipped cream](https://newtonheath.github.io/recipes/sweet/whipped-cream/) produce the amounts required.
 
 ## Ingredients
 
