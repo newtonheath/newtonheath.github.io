@@ -26,6 +26,9 @@ categories: [recipes]
 ## Steps
 
 1. Add dry ingredients to a large bowl and mix well
-2. Add eggs to a separate bowl and beat
-3. Add remaining wet ingredients to the eggs and mix well
-4. Add the wet ingredients to the dry, stir well enough that there are still many clumps of dry ingredients
+1. Add eggs to a separate bowl and beat
+1. Add remaining wet ingredients to the eggs and mix well
+1. Add the wet ingredients to the dry, stir well enough that there are still many clumps of dry ingredients
+1. Melt butter on hot skillet and use generous portion
+1. Resist the urge to press the pancake down!
+1. Flip when bubbles are consistent and cook for a little less then the first side took
