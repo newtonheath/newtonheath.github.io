@@ -31,4 +31,4 @@ categories: [recipes]
 1. Add the wet ingredients to the dry, stir well enough that there are still many clumps of dry ingredients
 1. Melt butter on hot skillet and use generous portion
 1. Resist the urge to press the pancake down!
-1. Flip when bubbles are consistent and cook for a little less then the first side took
+1. Flip when bubbles are consistent and cook for less time than the first side
