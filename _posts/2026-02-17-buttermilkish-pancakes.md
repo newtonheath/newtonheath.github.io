@@ -19,8 +19,8 @@ categories: [recipes]
 
 * 3 cups flour
 * 1/4 cup sugar
-* 1 1/2 teaspoon salt
 * 1 tablespoon of baking powder
+* 1 1/2 teaspoon salt
 * 1 1/2 teaspoon baking soda
 
 ## Steps
