@@ -13,7 +13,7 @@ categories: [recipes,favorites]
 * 4 chicken breasts, cut into strips (alternatively, 8 chicken thighs, bones and skin removed after boil)
 * Salt and pepper to taste
 * 5 tablespoons of butter
-* 2 carrots, peeled and thinly sliced
+* 2 carrots, peeled and diced or thinly sliced
 * 1 large spanish onion, chopped
 * 2 celery stalks, thinly sliced
 * 1/3 cup of flour
