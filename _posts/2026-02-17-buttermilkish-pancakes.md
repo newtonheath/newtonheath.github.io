@@ -9,11 +9,11 @@ categories: [recipes]
 
 ### Wet
 
-* 2 1/4 cups whole milk
+* 3 eggs
 * 1/4 cup vegetable oil
 * 1 tablesoon vanilla extract
+* 2 1/4 cups whole milk
 * 1/4 cup apple cider vinegar
-* 3 eggs
 
 ### Dry
 
